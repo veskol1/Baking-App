@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/tools"
+    android:id="@+id/card_view"
+    android:layout_gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="30dp"
+    card_view:cardCornerRadius="4dp"
+    android:layout_marginRight="3dp"
+    android:layout_marginLeft="3dp"
+    >
+
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/ingredient_view"
+    android:textAlignment="center"
+    android:textColor="@android:color/holo_green_dark"
+    android:textSize="15sp"
+    android:text="Ingredients"
+    />
+
+</android.support.v7.widget.CardView>
