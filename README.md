@@ -17,4 +17,6 @@ The App have 4 baking recipes which every recipe is guided by videos.
  
 <img src="https://user-images.githubusercontent.com/13125281/74839479-01adf480-532e-11ea-9503-11e2087c58ff.png" height="520" width="310">
 
-<img src="https://user-images.githubusercontent.com/13125281/74839486-02df2180-532e-11ea-99a9-0c044094372a.png" height="520" width="310">
+
+ #### Tablet view
+<img src="https://user-images.githubusercontent.com/13125281/74839486-02df2180-532e-11ea-99a9-0c044094372a.png" height="400" width="700">
